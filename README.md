@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm qwqzy 👋
 
-<!--
-**QwQzy/qwqzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer. Building AI agents, APIs, and small libraries in Go & Python.
 
-Here are some ideas to get you started:
+- 📝 Blog: [generalzy.blog.csdn.net](https://generalzy.blog.csdn.net)
+- 🌐 Website: [qwqzy.github.io](https://qwqzy.github.io)
+- 💻 GitHub: [@qwqzy](https://github.com/qwqzy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwqzy&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwqzy&layout=compact&theme=transparent&hide_border=true)
