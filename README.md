@@ -43,6 +43,6 @@ Backend engineer. Building AI agents, APIs, and small libraries in Go & Python.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwqzy&show_icons=true&theme=transparent&hide_border=true)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=qwqzy&show_icons=true&theme=transparent&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwqzy&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=qwqzy&layout=compact&theme=transparent&hide_border=true)
